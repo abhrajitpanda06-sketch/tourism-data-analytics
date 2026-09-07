@@ -1,0 +1,6 @@
+app.py
+requirements.txt
+tourism_master_dataset.csv
+best_rating_prediction_model.pkl
+best_visitmode_classification_model.pkl
+tourism_recommendation_system.pkl
